@@ -1,0 +1,10 @@
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\bin\Debug\StandardCalculator.exe.config
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\bin\Debug\StandardCalculator.exe
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\bin\Debug\StandardCalculator.pdb
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\obj\Debug\StandardCalculator.csproj.AssemblyReference.cache
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\obj\Debug\StandardCalculator.Calculator.resources
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\obj\Debug\StandardCalculator.Properties.Resources.resources
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\obj\Debug\StandardCalculator.csproj.GenerateResource.cache
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\obj\Debug\StandardCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\obj\Debug\StandardCalculator.exe
+C:\Users\Mohammad Abdur Rouf\OneDrive - American International University-Bangladesh\Working and Learning\All Code Related Files\Coding Projects\C#\StandardCalculator\obj\Debug\StandardCalculator.pdb
